@@ -1,4 +1,4 @@
-## 🌟  Manahoana o!  Hello ! bonjour !
+## 🌟  Manahoana o !  Hello ! bonjour !
 
 
 ### 🛠️ Compétences Techniques
