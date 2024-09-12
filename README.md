@@ -1,7 +1,7 @@
 ## 👨‍🎓  🖐  Manahoana o !  Hello ! bonjour !
 
 
-### 🛠🧥 Compétences Techniques
+### 🧥 Compétences Techniques
 
 #### Langages de Programmation
 
